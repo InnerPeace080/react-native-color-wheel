@@ -235,7 +235,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   img: {
-    alignSelf: 'center',
+    alignSelf: 'center',resizeMode:'contain'
   },
   circle: {
     position: 'absolute',
